@@ -1,0 +1,3 @@
+LIBRARY "DLLTest"
+EXPORTS
+GetInstance = GetInstance
