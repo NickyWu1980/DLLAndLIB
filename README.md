@@ -1,2 +1,2 @@
-# mytest
-test
+# DynamicLinkLibrary
+# StaticLibrary
